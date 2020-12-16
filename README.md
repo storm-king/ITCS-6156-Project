@@ -1,4 +1,6 @@
-# ITCS-6156-Project
+# Image Captioning with Custom Loss
+
+### Project for ITCS 6156 - Machine Learning
 
 Group 18: Storm King, Matthew Thayer, Sai Kandimalla, Ryan Alian
 
